@@ -1,0 +1,40 @@
+avatar : 	petit robot qui vole sur place, style fortnite,
+			avec une relique special peut faire voler les objet afin de se les approprier,
+			possede un tir pas tres puissant,
+camera :	3e personne ajustable,
+			
+but du jeu : 	plusieur salle, completer chaque salle pour atteindre la suivante,
+				cela peut etre tuer des enemis avec le terrain ou encore prendre une cle,
+				
+debut de projet :	ui intro,
+					un didact,
+					2 salle,
+					ui fin,
+					ui param :
+						son,
+						image,
+						commande,
+						clavier,
+						manette,
+						camera,
+synopsis :	dans une terre du future l'humain a sufisament developer l'ia, elle est mtn autonome,
+			mais dans un desir de control et les grandes puissances se sont entre déchirer engendrant l'extenction de l'humanité complète
+			ne reste plus que quelque robot ayant pour but de ne pas répeter les erreur humain,
+			essayant de survivre tant bien que mal sans humain et sans source d'energi infinie il finirait par tous mourrir,
+			le defi mtn est de trouver ou creer une source d'energie suffisament grande pour ne jamais en manquer,
+			et qui ne declencherais pas de guerre inutile,
+			bien heureusement on a trouver une source d'energie qui semble correspondre malheureusement elle a ete trouver par "",
+			un robot persecuter par les humains qui a finis par leur ressembler,
+			il souhaite donc garder cette source pour lui,
+			il a reussi a engranger une veritable arme de robot avec la promesse de decoder cette source
+			
+le but 1 : infiltrer et lui voler cette source afin de la rapporter a lassociation communautaire des robots,
+	reussite : but 2 : repartir en mode combat et essayer de capturer "",
+		reussite : but 4 : fin 1
+		echec : mort : fin 2
+	echec : but 3 : survivre et se cacher jusquau renfort,
+		reussite : but 5 : voler le nexus et le donné au labo de recherche avancer du QG : fin 3
+		echec : but 6 : essayer de s'echaper,
+			reussite : et ne jamais revenir la torture trop tromatisante : fin 4
+			echec : mort : fin 5
+
