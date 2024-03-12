@@ -17,6 +17,7 @@ debut de projet :	ui intro,
 						clavier,
 						manette,
 						camera,
+					
 synopsis :	dans une terre du future l'humain a sufisament developer l'ia, elle est mtn autonome,
 			mais dans un desir de control et les grandes puissances se sont entre déchirer engendrant l'extenction de l'humanité complète
 			ne reste plus que quelque robot ayant pour but de ne pas répeter les erreur humain,
@@ -27,14 +28,6 @@ synopsis :	dans une terre du future l'humain a sufisament developer l'ia, elle e
 			un robot persecuter par les humains qui a finis par leur ressembler,
 			il souhaite donc garder cette source pour lui,
 			il a reussi a engranger une veritable arme de robot avec la promesse de decoder cette source
-			
-le but 1 : infiltrer et lui voler cette source afin de la rapporter a lassociation communautaire des robots,
-	reussite : but 2 : repartir en mode combat et essayer de capturer "",
-		reussite : but 4 : fin 1
-		echec : mort : fin 2
-	echec : but 3 : survivre et se cacher jusquau renfort,
-		reussite : but 5 : voler le nexus et le donné au labo de recherche avancer du QG : fin 3
-		echec : but 6 : essayer de s'echaper,
-			reussite : et ne jamais revenir la torture trop tromatisante : fin 4
-			echec : mort : fin 5
 
+jeu d'espionnage
+usine désafécter : infiltré et volé
